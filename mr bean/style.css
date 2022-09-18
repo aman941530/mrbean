@@ -1,0 +1,43 @@
+body{
+
+ background: url(/photos/background3.jpg);
+ background-size:cover;
+}
+.maindiv{
+  display: flex;flex-direction: row;flex-wrap: wrap;padding: 100px;
+
+}
+
+
+
+.story{
+ width:600px;height:400px;background:grey;
+ background:url(/photos/hd\ bean\ label\ 2.jpg) ;
+ background-size: 600px 400px;
+;
+}
+
+.textbtn{
+width:310px;height:420px;background: grey;margin-left: 10px;}
+
+.start{
+width:600px;height:100px;background: rgb(178, 82, 197);margin-top: 10px;text-align: center;align-items: center;justify-content: space-around;display: flex;
+}
+
+.start button{
+  background: grey;color: white;
+  width:200px;height: 40px;font-weight: 600;
+}
+
+.text{
+ width:280px;height: 180px;background:rgb(212, 127, 191);margin: 10px;color :white;padding:5px;font-weight: 600;
+
+}
+.btn{
+ width:280px;height: 190px;background: rgb(212, 127, 191);margin: 10px;color :white;padding: 5px;font-weight: 600;
+
+}
+
+.yes,.no{
+ width:100px;height:20px;display: block;margin-top: 10px;font-weight: 600;
+}
